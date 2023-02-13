@@ -1,2 +1,0 @@
-display : Saludos a todos
-display : Hola Mundo
